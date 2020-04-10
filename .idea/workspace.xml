@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49d43f2e-a756-4a35-a57a-c0f062217131" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aE7kReLOhQJXRDNR1GqCklTu7Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.teamtreehouse.pomodoro.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/sounds" />
+      <recent name="$PROJECT_DIR$/resources/fxml" />
+      <recent name="$PROJECT_DIR$/src/com/teamtreehouse/pomodoro" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teamtreehouse.pomodoro.Main" />
+      <module name="s3v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.teamtreehouse.pomodoro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49d43f2e-a756-4a35-a57a-c0f062217131" name="Default Changelist" comment="" />
+      <created>1586275107430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586275107430</updated>
+      <workItem from="1586275109143" duration="5786000" />
+      <workItem from="1586289043433" duration="21453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Project_Structure" timestamp="1586275208800">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1586275208800" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586278761858">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586278761858" />
+    <state x="1079" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1586462408188">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1079" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1586462408188" />
+    <state x="552" y="215" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1586364130339">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="552" y="215" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586364130339" />
+    <state x="127" y="336" key="#xdebugger.evaluate" timestamp="1586391478113">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="127" y="336" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1586391478113" />
+    <state x="602" y="247" key="DetectedRootsChooserDialog" timestamp="1586275403079">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="602" y="247" key="DetectedRootsChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586275403079" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1586474017369">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586474017369" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1586474017368">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586474017368" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1586474017367">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586474017367" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1586474017368">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586474017368" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1586391487405">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586391487405" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1586391406963" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1586391487404">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586391487404" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1586391406962" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1586391487403">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586391487403" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1586391406962" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1586391487404">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586391487404" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1586391406963" />
+    <state x="328" y="106" key="SettingsEditor" timestamp="1586276057687">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1586276057687" />
+    <state x="578" y="299" key="extract.method.dialog" timestamp="1586400087581">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="299" key="extract.method.dialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586400087581" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1586380347852">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1586380347852" />
+  </component>
+</project>
